@@ -31,8 +31,8 @@ Button b;
 
                  if(!e.getText().toString().equals("")) {
                      String s = e.getText().toString();
-                     double kg=Double.parseDouble(s);
-                     double m=1000*kg;
+                     double km=Double.parseDouble(s);
+                     double m=1000*km;
                      double l=100*m;
                      double k=10*l;
                      t.setText(m + " m ");
