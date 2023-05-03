@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">unitconverter app</string>
+    <string name="enter_the_value">Enter the value:</string>
+    <string name="km">Converter </string>
+    <string name="number">number</string>
+    <string name="click">Convert</string>
+    <string name="enter_a_value">Enter a value</string>
+</resources>
